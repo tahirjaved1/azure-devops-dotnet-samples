@@ -2,7 +2,7 @@
 
 [![Build Status](https://dev.azure.com/ms/azure-devops-dotnet-samples/_apis/build/status/Microsoft.azure-devops-dotnet-samples?branchName=main)](https://dev.azure.com/ms/azure-devops-dotnet-samples/_build/latest?definitionId=82&branchName=main)
 
-This repository contains C# samples that show how to integrate with  Azure DevOps Services and Azure using our [public client libraries](https://www.nuget.org/profiles/nugetvss), service hooks, and more.
+adasdasdasThis repository contains C# samples that show how to integrate with  Azure DevOps Services and Azure using our [public client libraries](https://www.nuget.org/profiles/nugetvss), service hooks, and more.
 
 ## Explore the samples
 
